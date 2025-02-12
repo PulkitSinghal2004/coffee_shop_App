@@ -21,15 +21,15 @@ This project is a fully functional mobile coffee shop application built using Re
 
 ## Installation
 
-1. **Clone the repository:**
-      git clone
+1. **Clone the repository:-**
+      git clone https://github.com/PulkitSinghal2004/coffee_shop_App.git
    
-3. **Navigate to the project directory:**
+3. **Navigate to the project directory:-**
        cd CoffeeShopApp
    
-5. **Install dependencies:**
+4. **Install dependencies:-**
       npm install  # or yarn install
    
-7.  **Run the app:**
+5.  **Run the app:-**
        npx react-native run-android  # For Android
         npx react-native run-ios    # For iOS
