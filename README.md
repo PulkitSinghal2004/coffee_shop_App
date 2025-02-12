@@ -1,4 +1,4 @@
-# Coffee Shop App (React Native & Zustand)
+# coffee_Shop_App (React Native & Zustand)
 This project is a fully functional mobile coffee shop application built using React Native for the frontend and Zustand for state management.  It allows users to browse a selection of coffees and coffee beans, search for specific items, view detailed information, favorite items, add them to a cart, and simulate placing an order.
 
 ## Features
@@ -25,7 +25,7 @@ This project is a fully functional mobile coffee shop application built using Re
       git clone https://github.com/PulkitSinghal2004/coffee_shop_App.git
    
 3. **Navigate to the project directory:-**
-       cd CoffeeShopApp
+       cd coffee_Shop_App
    
 4. **Install dependencies:-**
       npm install  # or yarn install
