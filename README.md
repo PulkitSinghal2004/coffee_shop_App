@@ -31,5 +31,5 @@ This project is a fully functional mobile coffee shop application built using Re
       npm install  # or yarn install
    
 5.  **Run the app:-**
-       npx react-native run-android  # For Android
-        npx react-native run-ios    # For iOS
+        npx react-native run-android  # For Android
+           npx react-native run-ios    # For iOS
